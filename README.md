@@ -14,8 +14,8 @@
 
   <img src="https://img.icons8.com/color/96/javascript--v1.png" 
   height="50px" widht="50px" alt="C_Badge"/>
+  <img src="https://img.icons8.com/color/344/dart.png" height="50px" width="50px" alt="Dart_Badge"/>
   <img src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo.png" height="50px" width="50px" alt="Ruby_Badge"/>
- <img src="https://img.icons8.com/color/344/dart.png" height="50px" width="50px" alt="Dart_Badge"/>
   </div>
 <p align="left"> 
 </p>
