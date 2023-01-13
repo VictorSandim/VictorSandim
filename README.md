@@ -3,10 +3,7 @@
 ## 🤔 Who am I?
   I'm Victor, 19 years old, currently studying **System Analysis and Development** at [UNIP](https://unip.br/) (Universidade Paulista).
 
-## 🚧 Currently working on
-  - [RubyPlayGame](https://github.com/otavioabreu27/RBpg)
-  
-## 🌱 Learning JS, Dart and Ruby!
+## 🌱 Learning JS, Dart and Python!
   - [Check-out]()
 
 
