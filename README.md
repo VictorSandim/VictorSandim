@@ -17,12 +17,6 @@
 <p align="left"> 
 </p>
 
-## 📊 GH Status
-
-<div>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=VictorSandim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSandim&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 # Contact me
 🐱‍🏍 Open to collaborate in any projects, hit me up!
